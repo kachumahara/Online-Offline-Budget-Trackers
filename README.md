@@ -2,6 +2,9 @@
 
 This app enables user to add functionality to an existing Budget Tracker. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
+![PWA](https://user-images.githubusercontent.com/42631863/77835905-b21dce00-710e-11ea-9acc-b6cf22ce6b7e.jpg)
+
+
 #Offline Functionality:
 
   * Enter deposits offline
