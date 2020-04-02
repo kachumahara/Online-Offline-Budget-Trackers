@@ -15,6 +15,13 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
+  ## Technologies Used
+  * Javascript
+  * Express
+  * MongoDB
+  * Mongoose
+  * Node.js
+
 Link to the app: https://safe-plains-61080.herokuapp.com
 
 Github link: https://kachumahara.github.io/Online-Offline-Budget-Trackers/
